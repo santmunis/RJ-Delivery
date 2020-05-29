@@ -1,0 +1,4 @@
+#Sun Apr 19 21:51:17 BRT 2020
+base.0=C\:\\Users\\Nathan Munis\\Documents\\Projetos\\rj_delivery\\rj_delivery\\frontend\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
